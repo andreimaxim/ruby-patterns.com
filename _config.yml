@@ -1,0 +1,10 @@
+url: "https://ruby-patterns.com"
+title: "Ruby Best Practice Patterns"
+author: "Andrei Maxim"
+description: "Ruby Best Practice Patterns inspired by Kent Beck's Smalltalk Best Practice Patterns"
+
+permalink: /:year/:short_month/:day/:title/
+
+exclude:
+  - LICENSE.md
+  - README.md

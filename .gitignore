@@ -1,0 +1,8 @@
+.DS_Store
+.bundle
+.jekyll-cache
+.idea/
+.sass-cache
+_site
+node_modules/
+*.gem
